@@ -1,0 +1,10 @@
+1: To Kill a Mockingbird: 100
+2: 1984: 25
+3: The Great Gatsby: 65
+4: The Catcher in the Rye: 100
+5: Pride and Prejudice: 50
+6: The Lord of the Rings: 75
+7: Harry Potter and the Sorcerer's Stone: 80
+8: To Kill a Mockingbird: 45
+9: The Catcher in the Rye: 60
+10: Pride and Prejudice: 30
